@@ -3,6 +3,9 @@ synapp
 
 Synapp is the codename for the startup idea we pitched Friday Nov 9 @ Startup Weekend Atlanta.
 http://atlanta.startupweekend.org
+
+Check out the slide deck from the presentation : http://goo.gl/aXwBA
+
 Thanks to everyones support and a vote of confidence from the judges :
 
 Glenn Bachman
